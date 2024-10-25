@@ -1,5 +1,6 @@
 ### Статус сборки
 
+[![Build status](https://ci.appveyor.com/api/projects/status/gc37wcsux6bf3jcs?svg=true)](https://ci.appveyor.com/project/melnikonayana/react-3-props)
 
 ### Ссылка на GitHub Pages
 
