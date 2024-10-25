@@ -1,3 +1,11 @@
+### Статус сборки
+
+
+### Ссылка на GitHub Pages
+
+https://melnikonayana.github.io/react-3_props/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
